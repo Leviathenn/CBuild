@@ -51,4 +51,7 @@ The lib folder doesn't work yet. I will get it working but for now its a no. Any
 
 Hope you enjoy it!
 
+## Contributors
 
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
