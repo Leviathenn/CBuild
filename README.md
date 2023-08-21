@@ -1,4 +1,7 @@
 # How to use
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 So, Im not proud I made this in python no offense. But it works Hopefully in the near future I will move it to my up coming project called Zyfron. But who knows.
 
 Anyways, you'll need Python, Go Figure. I use [Python 3.10.4](https://www.python.org/downloads/release/python-3104/). I would recommend downloading this version from that link because I know that it works.
@@ -54,6 +57,20 @@ Hope you enjoy it!
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://prestonwitzel.github.io"><img src="https://avatars.githubusercontent.com/u/117534523?v=4?s=100" width="100px;" alt="PrestonW"/><br /><sub><b>PrestonW</b></sub></a><br /><a href="#infra-pwitzel" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Leviathenn/CBuild/commits?author=pwitzel" title="Tests">⚠️</a> <a href="https://github.com/Leviathenn/CBuild/commits?author=pwitzel" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
