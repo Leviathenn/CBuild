@@ -59,13 +59,7 @@ Hope you enjoy it!
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://prestonwitzel.github.io"><img src="https://avatars.githubusercontent.com/u/117534523?v=4?s=100" width="100px;" alt="PrestonW"/><br /><sub><b>PrestonW</b></sub></a><br /><a href="#infra-pwitzel" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Leviathenn/CBuild/commits?author=pwitzel" title="Tests">⚠️</a> <a href="https://github.com/Leviathenn/CBuild/commits?author=pwitzel" title="Code">💻</a></td>
-    </tr>
-  </tbody>
-</table>
+
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
