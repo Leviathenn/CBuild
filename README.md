@@ -1,7 +1,4 @@
 # How to use
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 So, Im not proud I made this in python no offense. But it works Hopefully in the near future I will move it to my up coming project called Zyfron. But who knows.
 
 Anyways, you'll need Python, Go Figure. I use [Python 3.10.4](https://www.python.org/downloads/release/python-3104/). I would recommend downloading this version from that link because I know that it works.
@@ -56,19 +53,4 @@ Hope you enjoy it!
 
 ## Contributors
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
