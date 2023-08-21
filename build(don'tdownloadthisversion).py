@@ -5,7 +5,7 @@ import subprocess
 import time
 
 def compile_files(src_dir, build_dir, include_dir):
-    print("(!) JIT Build Created By Leviathenn")
+    print("(!) CBuild Created By Leviathenn")
     print("(-) Compiling...")
     for root, dirs, files in os.walk(src_dir):
         for file in files:
