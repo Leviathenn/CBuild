@@ -1,0 +1,10 @@
+certifi==2023.7.22
+charset-normalizer==3.2.0
+greenlet==2.0.2
+idna==3.4
+msgpack==1.0.5
+neovim-remote==2.5.1
+psutil==5.9.5
+pynvim==0.4.3
+requests==2.31.0
+urllib3==2.0.4
