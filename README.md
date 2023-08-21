@@ -2,7 +2,7 @@
 So, Im not proud I made this in python no offense. But it works Hopefully in the near future I will move it to my up coming project called Zyfron. But who knows.
 
 Anyways, you'll need Python, Go Figure. I use [Python 3.10.4](https://www.python.org/downloads/release/python-3104/). I would recommend downloading this version from that link because I know that it works.
-
+ 
 Next make sure you have pip installed. It should come downloaded if you use that link.
 
 Than copy and paste this into your terminal
